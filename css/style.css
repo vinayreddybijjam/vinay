@@ -1,0 +1,11 @@
+body{
+    background-color:rgb(60, 24, 225);
+}
+h1{
+    background-color: azure;
+    text-align: center;
+}
+p{
+    font-family: Verdana;
+    font-size: 20px;
+}

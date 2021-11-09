@@ -1,0 +1,79 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    /* display:grid;
+    border: 2px solid black; */
+    /* grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(2,1fr); */
+}
+/* .mouseover{
+    grid-template-rows: 1/2;
+    grid-template-columns: 1/-1;
+    border: 2px solid yellow;
+}
+    grid-template-rows: 1/2;
+    grid-template-columns: 1/-1;
+    border: 2px solid yellow;
+} */
+h1{
+    justify-content: center;
+    text-align: center;
+    font-family: 'Qahiri', sans-serif;
+    font-family: 'Rampart One', cursive;
+    
+}
+
+.main{
+    display: flex; 
+    overflow: hidden;
+    padding: 51px;
+    margin: 56px;
+}
+.one-class{
+    display: inline-flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 15px;
+}
+
+#mouseover1{
+    background-color: blue;
+    color: white;
+    width: 213px;
+    height: 36px;
+}
+#mouseout1{
+    background-color: green;
+    color: white;
+    width: 213px;
+    height: 36px;    
+}
+#click1{
+    background-color: red;
+    color: white;
+    width: 213px;
+    height: 36px;    
+}
+#dblclick1{
+    background-color: rgb(247, 0, 255);
+    color: white;
+    width: 213px;
+    height: 36px; 
+
+}
+#onfocus1{
+    /* background-color: rgb(247, 0, 255); */
+    color: black;
+    width: 213px;
+    height: 26px; 
+
+}
+#onblur1{
+    /* background-color: rgb(247, 0, 255); */
+    color: black;
+    width: 213px;
+    height: 26px; 
+
+}

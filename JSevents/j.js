@@ -1,0 +1,23 @@
+let employee=[
+    {
+       i:"1",
+       first_name:"Bernardine",
+       last_name:"Banbrook",
+       email:"bbanbrook0@shareasale.com",
+       gender:"Male",
+    },
+    {
+        i:"2",
+        first_name:"Corrie",
+        last_name:"Toffalo",
+        email:"ctoffalo1@ovh.net",
+        gender:"Genderqueer",
+    },
+    {
+        i:"3",
+        first_name:"Calli",
+        last_name:"Golsby",
+        email:"cgolsby2@sfgate.com",
+        gender:"Female",
+    },
+];
